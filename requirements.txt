@@ -1,0 +1,10 @@
+firebase_admin==6.3.0
+fuzzywuzzy==0.18.0
+matplotlib==3.6.3
+numpy==1.24.2
+pandas==1.5.3
+python-dotenv==1.0.1
+pytz==2022.7.1
+scikit_learn==1.2.2
+scipy==1.14.1
+streamlit==1.12.0
